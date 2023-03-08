@@ -1,6 +1,7 @@
 # Java_Rasp_Demo
 
 学习过程中实现的简单的Java的Rasp，仅供学习参考,应该先具有Java `Instrumentation`与`ASM`技术的基础
+关于这个Demo具体的细节可以参考：http://www.gk0d.top/note/rasp%E5%AD%A6%E4%B9%A0/
 
 # 关于Rasp的资料
 
